@@ -9,3 +9,4 @@ clear -> To Clear terminal
 <br>
 ls -> to see files
 <br>ls -a > To see all the files (a stands for all) it shows hidden file as well
+<br> git status -> Shows the current state of the code
